@@ -1,7 +1,9 @@
 ## Hi! My name is Nikita  
   
 
-Just starting my way in programming, learning python, trying to set up a profile in github)* 🌍  I'm based in Russia* 🧠  I'm learning Python
+Just starting my way in programming, learning python, trying to set up a profile in github)
+🌍  I'm based in Russia
+🧠  I'm learning Python
 
 
 
