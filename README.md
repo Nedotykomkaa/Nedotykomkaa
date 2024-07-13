@@ -24,11 +24,12 @@ Just starting my way in programming, learning Python)
 
 
 <h2 align="center">
-    📫 How to reach me:
+    📫 How to reach me
 </h2>
 <div align="center">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nedotykomkaa)  
+
 [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' height='40'>](https://t.me/BoratInPhilosophy)
 
 
