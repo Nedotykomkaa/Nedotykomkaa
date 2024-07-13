@@ -7,6 +7,7 @@ I'm a biologist diving into the world of programming. Now I am starting my way i
 
 - **Programming**: Learning Python
 - **Location**: Based in Russia
+- **English**:B2
 
 <h2 align="center">
     GitHub Stats
