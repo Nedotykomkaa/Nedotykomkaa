@@ -5,7 +5,7 @@ Just starting my way in programming, learning Python)
 
 - **Programming**: Learning Python
 - **Location**: Based in Russia
-- 
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
