@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
+Hi! My name is Nikita
 Just starting my way in programming, learning python, trying to set up a profile in github)* 🌍  I'm based in Russia* 🧠  I'm learning Python
 
 ### Skills
