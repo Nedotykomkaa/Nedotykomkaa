@@ -33,5 +33,4 @@ Just starting my way in programming, learning Python)
 
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Nedotykomkaa&&style=flat-square)  
 
