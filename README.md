@@ -23,10 +23,9 @@ Just starting my way in programming, learning Python)
 
 
 
-<div align="center" style="font-size: 2em;">
+<h2 align="center">
     📫 How to reach me:
-</div>
-
+</h2>
 <div align="center">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nedotykomkaa)  
