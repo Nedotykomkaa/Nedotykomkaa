@@ -11,4 +11,4 @@ Just starting my way in programming, learning python, trying to set up a profile
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nedotykomkaa&show_icons=true&theme=cobalt)
 
 
-[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nedotykomkaa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
