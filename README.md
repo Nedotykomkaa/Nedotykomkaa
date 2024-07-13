@@ -32,11 +32,8 @@ Just starting my way in programming, learning Python)
 
 [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' height='40'>](https://t.me/BoratInPhilosophy)
 
-
-
 <br/>  
   
-
 <h2 align="center">
     Skills
 </h2>
