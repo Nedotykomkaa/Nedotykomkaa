@@ -21,6 +21,14 @@ Just starting my way in programming, learning Python)
 </td></tr></table>  
 
 
+- 📫 How to reach me:   
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nedotykomkaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/BoratInPhilosophy)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nedotykomkaa)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <br/>  
   
