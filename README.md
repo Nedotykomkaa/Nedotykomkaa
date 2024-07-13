@@ -1,11 +1,7 @@
 ## Hi! My name is Nikita  
   
 
-<a href="https://github.com/https://github.com/Nedotykomkaa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
+Just starting my way in programming, learning python, trying to set up a profile in github)* 🌍  I'm based in Russia* 🧠  I'm learning Python
 
 
 
@@ -14,19 +10,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nedotykomkaa&show_icons=true&theme=cobalt)
 
-  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Nedotykomkaa&&style=flat-square)  
   
 
 
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-Just starting my way in programming, learning python, trying to set up a profile in github)* 🌍  I'm based in Russia* 🧠  I'm learning Python
 
 ### Skills
 
@@ -36,4 +23,5 @@ Just starting my way in programming, learning python, trying to set up a profile
 
 
 
+![Profile views counter](https://komarev.com/ghpvc/?username=Nedotykomkaa&&style=flat-square)  
 
