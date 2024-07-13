@@ -52,7 +52,7 @@ I'm a biologist diving into the world of programming. Now I am starting my way i
 </h2>
 <div align="center">
 
-- [Introduction to Linux](https://stepik.org/cert/2520375?lang=en)
+[Introduction to Linux](https://stepik.org/cert/2520375?lang=en)
 
 
 
