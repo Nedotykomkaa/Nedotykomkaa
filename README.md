@@ -38,7 +38,7 @@ I'm a biologist diving into the world of programming. Now I am starting my way i
 
 <h2 align="center">
     Skills
-</h2>
+
 <div align="center">
 
 <p align="left">
