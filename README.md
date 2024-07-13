@@ -3,7 +3,7 @@
 
 
 
-Just starting my way in programming, learning Python)
+I'm a biologist diving into the world of programming. Now I am starting my way in programming, learning Python. Plan to use GitHub to upload my pet projects as I learn.
 
 - **Programming**: Learning Python
 - **Location**: Based in Russia
