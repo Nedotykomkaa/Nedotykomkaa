@@ -26,7 +26,7 @@ Just starting my way in programming, learning Python)
 
 
 <h2 align="center">
-    📫 How to reach me
+     How to reach me
 </h2>
 <div align="center">
 
@@ -44,7 +44,7 @@ Just starting my way in programming, learning Python)
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></p>
 
 <h2 align="center">
-    Courses taken
+   Course Certificates
 </h2>
 <div align="center">
 
