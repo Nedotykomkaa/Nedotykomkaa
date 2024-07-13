@@ -8,8 +8,10 @@ Just starting my way in programming, learning Python)
 - **Programming**: Learning Python
 - **Location**: Based in Russia
 
-
-## Github Stats  
+<h2 align="center">
+    GitHub Stats
+</h2>
+<div align="center">
 <table><tr><td valign="top" width="50%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nedotykomkaa&show_icons=true&theme=cobalt)
