@@ -12,7 +12,7 @@ Just starting my way in programming, learning python, trying to set up a profile
 
 </td><td valign="top" width="50%">
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedotykomkaa&hide_border=true&layout=compact" align="left" style="width: 100%" />](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nedotykomkaa)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedotykomkaa&hide_border=true&layout=compact" align="left" style="width: 100%" />](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nedotykomkaa&theme=2077)
 
 </td></tr></table>  
 
