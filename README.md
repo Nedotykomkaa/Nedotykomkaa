@@ -1,5 +1,10 @@
 ## Hi! My name is Nikita  
-  
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+ 
+</div>
 
 Just starting my way in programming, learning Python)
 
