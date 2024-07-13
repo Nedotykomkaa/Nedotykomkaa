@@ -33,9 +33,6 @@ Just starting my way in programming, learning Python)
 [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' height='40'>](https://t.me/BoratInPhilosophy)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nedotykomkaa)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <br/>  
   
