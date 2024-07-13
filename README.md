@@ -24,7 +24,7 @@ Just starting my way in programming, learning Python)
 - 📫 How to reach me:   
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nedotykomkaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/BoratInPhilosophy)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nedotykomkaa)  [<img src='(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BoratInPhilosophy)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nedotykomkaa)](https://github.com/ryo-ma/github-profile-trophy)
 
