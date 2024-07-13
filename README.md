@@ -10,10 +10,16 @@ Just starting my way in programming, learning python, trying to set up a profile
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nedotykomkaa&show_icons=true&theme=cobalt)
 
+</td><td valign="top" width="50%">
 
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedotykomkaa&hide_border=true&layout=compact" align="left" style="width: 100%" />](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nedotykomkaa)
+
+</td></tr></table>  
+
+
+
+<br/>  
   
-
-
 
 ### Skills
 
