@@ -54,5 +54,6 @@ I'm a biologist diving into the world of programming, learning Python. I plan to
 <div align="center">
 
 [Introduction to Linux](https://stepik.org/cert/2520375?lang=en)
+
 [Git Technology](https://stepik.org/cert/2522694?lang=en)
 
